@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 	System.out.print("我是项目A");
-	System.out.print("我是dev创建的");
+	System.out.print("我是dev创建的、、、、、");
     }
 }
